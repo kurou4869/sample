@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+*.x
+Debug
+Release
+.vs
+kadai06/savedata.bin
+kadai06/savedata.bin
+kadai06/kadai06.vcxproj
+kadai06/kadai06.vcxproj.user
+kadai06/kadai06.vcxproj.filters
+kadai06/kadai06.sln
